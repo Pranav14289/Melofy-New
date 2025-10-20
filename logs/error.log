@@ -1,0 +1,2213 @@
+[2025-10-20T09:48:14.353Z] [ERROR] [Backup] Backup channel 1386987116889899024 not found
+[2025-10-20T09:52:04.739Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:04.749Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:04.791Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:04.793Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:04.833Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:04.836Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:04.842Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:05.271Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:05.274Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:05.278Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:05.354Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:05.361Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:05.367Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:05.383Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:05.386Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:05.389Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:05.804Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:05.811Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:05.822Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:05.889Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:05.894Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:05.904Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:05.922Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:05.927Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:05.935Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:06.347Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:06.354Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:06.361Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:06.425Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:06.432Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:06.440Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:06.461Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:06.467Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:06.475Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:06.894Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:06.901Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:06.908Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:07.027Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:07.033Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:07.037Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:07.054Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:07.056Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:07.060Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:07.480Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:07.483Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:07.489Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:07.567Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:07.570Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:07.575Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:07.587Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:07.591Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:07.595Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:08.009Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:08.015Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:08.023Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:08.101Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:08.106Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:08.113Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:08.134Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:08.139Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:08.147Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:08.555Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:08.560Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:08.568Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:08.635Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:08.642Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:08.650Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:08.670Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:08.675Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:08.685Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:09.094Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:09.101Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:09.110Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:09.171Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:09.180Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:09.188Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:09.219Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:09.225Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:09.234Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:09.260Z] [ERROR] [MusicManager] Lavalink node "Lavalink Node 1" error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:09.265Z] [ERROR] [Lavalink] Node Lavalink Node 1 encountered an error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:09.657Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:09.692Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:09.702Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:09.731Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:09.737Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:09.748Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:09.770Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:09.776Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:09.780Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:10.237Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:10.242Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:10.252Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:10.274Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:10.280Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:10.287Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:10.307Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:10.313Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:10.319Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:10.776Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:10.782Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:10.791Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:10.814Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:10.821Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:10.830Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:10.853Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:10.858Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:10.868Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:11.324Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:11.327Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:11.332Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:11.352Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:11.358Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:11.363Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:11.417Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:11.421Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:11.431Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:11.849Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:11.854Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:11.860Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:11.887Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:11.890Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:11.896Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:11.963Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:11.967Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:11.974Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:12.384Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:12.390Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:12.400Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:12.424Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:12.431Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:12.444Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:12.497Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:12.503Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:12.510Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:12.924Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:12.927Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:12.932Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:12.966Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:12.968Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:12.971Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:13.041Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:13.043Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:13.046Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:13.452Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:13.457Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:13.466Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:13.483Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:13.487Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:13.493Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:13.566Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:13.571Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:13.578Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:14.002Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:14.007Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:14.019Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:14.033Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:14.036Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:14.040Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:14.109Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:14.113Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:14.122Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:14.282Z] [ERROR] [MusicManager] Lavalink node "Lavalink Node 1" error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:14.285Z] [ERROR] [Lavalink] Node Lavalink Node 1 encountered an error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:14.538Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:14.543Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:14.550Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:14.568Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:14.573Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:14.581Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:14.651Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:14.657Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:14.665Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:15.070Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:15.074Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:15.080Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:15.099Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:15.103Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:15.108Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:15.191Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:15.195Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:15.201Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:15.600Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:15.605Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:15.613Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:15.632Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:15.637Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:15.645Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:15.723Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:15.727Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:15.737Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:16.141Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:16.146Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:16.154Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:16.173Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:16.179Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:16.188Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:16.269Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:16.274Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:16.283Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:16.674Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:16.679Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:16.686Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:16.717Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:16.721Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:16.730Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:16.809Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:16.815Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:16.821Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:17.213Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:17.218Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:17.226Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:17.250Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:17.255Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:17.262Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:17.337Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:17.342Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:17.350Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:17.755Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:17.760Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:17.769Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:17.786Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:17.791Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:17.798Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:17.877Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:17.881Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:17.888Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:18.288Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:18.293Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:18.300Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:18.316Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:18.321Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:18.328Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:18.421Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:18.425Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:18.433Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:18.819Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:18.823Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:18.829Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:18.845Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:18.849Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:18.855Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:18.962Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:18.967Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:18.973Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:19.296Z] [ERROR] [MusicManager] Lavalink node "Lavalink Node 1" error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:19.302Z] [ERROR] [Lavalink] Node Lavalink Node 1 encountered an error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:19.367Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:19.374Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:19.383Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:19.412Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:19.419Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:19.431Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:19.499Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:19.504Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:19.512Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:19.913Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:19.918Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:19.926Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:19.976Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:19.981Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:19.987Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:20.037Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:20.042Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:20.049Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:20.447Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:20.450Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:20.454Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:20.508Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:20.512Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:20.519Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:20.569Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:20.574Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:20.581Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:20.969Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:20.974Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:20.984Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:21.047Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:21.052Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:21.060Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:21.105Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:21.112Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:21.122Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:21.506Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:21.511Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:21.519Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:21.596Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:21.602Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:21.610Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:21.658Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:21.664Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:21.671Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:22.124Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:22.169Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:22.173Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:22.193Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:22.197Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:22.201Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:22.211Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:22.213Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:22.216Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:22.701Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:22.706Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:22.716Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:22.739Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:22.744Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:22.752Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:22.766Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:22.771Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:22.777Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:23.250Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:23.255Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:23.263Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:23.284Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:23.289Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:23.295Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:23.313Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:23.317Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:23.324Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:23.798Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:23.802Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:23.818Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:23.835Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:23.840Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:23.847Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:23.865Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:23.872Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:23.880Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:24.340Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:24.346Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:24.353Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:24.371Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:24.376Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:24.385Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:24.407Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:24.413Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:24.421Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:24.882Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:24.888Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:24.896Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:24.917Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:24.921Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:24.929Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:24.947Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:24.952Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:24.958Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:25.425Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:25.429Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:25.433Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:25.444Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:25.448Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:25.452Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:25.488Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:25.491Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:25.495Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:25.954Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:25.957Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:25.962Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:25.978Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:25.983Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:25.991Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:26.009Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:26.015Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:26.022Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:26.486Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:26.490Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:26.497Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:26.514Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:26.519Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:26.525Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:26.552Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:26.556Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:26.563Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:27.021Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:27.023Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:27.027Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:27.055Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:27.060Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:27.067Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:27.085Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:27.090Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:27.098Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:27.542Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:27.545Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:27.548Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:27.584Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:27.586Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:27.590Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:27.616Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:27.619Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:27.624Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:28.059Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:28.062Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:28.067Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:28.107Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:28.111Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:28.118Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:28.138Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:28.142Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:28.151Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:28.582Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:28.586Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:28.591Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:28.638Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:28.641Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:28.645Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:28.671Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:28.673Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:28.677Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:29.109Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:29.112Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:29.117Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:29.156Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:29.159Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:29.166Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:29.200Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:29.203Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:29.208Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:29.641Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:29.645Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:29.651Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:29.680Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:29.683Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:29.687Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:29.722Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:29.725Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:29.729Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:30.174Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:30.179Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:30.185Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:30.207Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:30.209Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:30.213Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:30.253Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:30.257Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:30.263Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:30.699Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:30.702Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:30.706Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:30.730Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:30.732Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:30.736Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:30.794Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:30.800Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:30.808Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:31.229Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:31.233Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:31.240Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:31.258Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:31.264Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:31.270Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:31.342Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:31.351Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:31.361Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:31.766Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:31.770Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:31.778Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:31.802Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:31.810Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:31.819Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:31.899Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:31.908Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:31.924Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:32.315Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:32.319Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:32.323Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:32.345Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:32.349Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:32.352Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:32.464Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:32.467Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:32.473Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:32.846Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:32.853Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:32.863Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:32.888Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:32.894Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:32.911Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:32.996Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:33.002Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:33.007Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:33.387Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:33.391Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:33.399Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:33.447Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:33.452Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:33.461Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:33.535Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:33.540Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:33.551Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:33.920Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:33.922Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:33.925Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:33.986Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:33.989Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:33.994Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:34.079Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:34.082Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:34.085Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:34.448Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:34.485Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:34.502Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:34.560Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:34.572Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:34.611Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:34.623Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:34.626Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:34.631Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:35.053Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:35.056Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:35.061Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:35.131Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:35.134Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:35.137Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:35.148Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:35.150Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:35.154Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:35.585Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:35.589Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:35.595Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:35.662Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:35.667Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:35.673Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:35.695Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:35.701Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:35.707Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:36.113Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:36.117Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:36.123Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:36.205Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:36.212Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:36.223Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:36.251Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:36.258Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:36.270Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:36.649Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:36.655Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:36.664Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:36.754Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:36.759Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:36.767Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:36.804Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:36.809Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:36.815Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:37.199Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:37.202Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:37.207Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:37.293Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:37.296Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:37.300Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:37.334Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:37.340Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:37.347Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:37.724Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:37.735Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:37.750Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:37.821Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:37.823Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:37.830Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:37.865Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:37.868Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:37.873Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:38.282Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:38.286Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:38.293Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:38.357Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:38.362Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:38.370Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:38.388Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:38.393Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:38.402Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:38.882Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:38.888Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:38.905Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:38.924Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:38.927Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:38.931Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:38.937Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:38.939Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:38.942Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:39.417Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:39.419Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:39.422Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:39.446Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:39.449Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:39.453Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:39.465Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:39.469Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:39.472Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:39.942Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:39.945Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:39.949Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:39.974Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:39.977Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:39.983Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:39.996Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:39.998Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:40.002Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:40.466Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:40.468Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:40.472Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:40.495Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:40.498Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:40.502Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:40.517Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:40.521Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:40.529Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:40.995Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:41.001Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:41.008Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:41.026Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:41.032Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:41.038Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:41.055Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:41.060Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:41.067Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:41.535Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:41.540Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:41.548Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:41.557Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:41.559Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:41.563Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:41.586Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:41.589Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:41.592Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:42.071Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:42.074Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:42.081Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:42.089Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:42.092Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:42.097Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:42.116Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:42.120Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:42.124Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:42.596Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:42.599Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:42.603Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:42.619Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:42.622Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:42.628Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:42.641Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:42.645Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:42.651Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:43.121Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:43.126Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:43.136Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:43.160Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:43.165Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:43.174Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:43.196Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:43.202Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:43.211Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:43.664Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:43.669Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:43.677Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:43.702Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:43.707Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:43.717Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:43.737Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:43.742Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:43.751Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:44.204Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:44.206Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:44.210Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:44.247Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:44.251Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:44.254Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:44.272Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:44.274Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:44.279Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:44.725Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:44.728Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:44.732Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:44.778Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:44.782Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:44.789Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:44.809Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:44.815Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:44.822Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:45.252Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:45.257Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:45.265Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:45.313Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:45.319Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:45.327Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:45.350Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:45.358Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:45.369Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:45.790Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:45.796Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:45.805Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:45.859Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:45.864Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:45.871Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:45.891Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:45.897Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:45.905Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:46.328Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:46.333Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:46.340Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:46.396Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:46.399Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:46.403Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:46.428Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:46.432Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:46.437Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:46.858Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:46.861Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:46.866Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:46.916Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:46.919Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:46.924Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:46.953Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:46.956Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:46.959Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:47.391Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:47.393Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:47.397Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:47.448Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:47.453Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:47.461Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:47.486Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:47.493Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:47.502Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:47.914Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:47.919Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:47.926Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:47.989Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:47.994Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:48.001Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:48.020Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:48.024Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:48.032Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:48.453Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:48.458Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:48.467Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:48.530Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:48.538Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:48.550Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:48.588Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:48.600Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:48.613Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:48.998Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:49.002Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:49.006Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:49.093Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:49.095Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:49.099Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:49.134Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:49.136Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:49.140Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:49.533Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:49.536Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:49.540Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:49.617Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:49.620Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:49.623Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:49.666Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:49.669Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:49.672Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:50.060Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:50.065Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:50.071Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:50.149Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:50.153Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:50.160Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:50.194Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:50.199Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:50.206Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:50.597Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:50.600Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:50.604Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:50.680Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:50.683Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:50.686Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:50.731Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:50.733Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:50.736Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:51.130Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:51.134Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:51.139Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:51.198Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:51.201Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:51.205Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:51.252Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:51.255Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:51.260Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:51.657Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:51.660Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:51.665Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:51.720Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:51.722Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:51.725Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:51.785Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:51.791Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:51.802Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:52.184Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:52.188Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:52.195Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:52.239Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:52.244Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:52.251Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:52.328Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:52.332Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:52.339Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:52.730Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:52.738Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:52.748Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:52.774Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:52.779Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:52.787Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:52.865Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:52.869Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:52.878Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:53.272Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:53.276Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:53.284Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:53.317Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:53.322Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:53.329Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:53.402Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:53.404Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:53.409Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:53.813Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:53.815Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:53.818Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:53.850Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:53.852Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:53.856Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:53.929Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:53.932Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:53.935Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:54.332Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:54.335Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:54.339Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:54.375Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:54.378Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:54.381Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:54.458Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:54.464Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:54.472Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:54.855Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:54.861Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:54.870Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:54.904Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:54.910Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:54.919Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:54.993Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:54.998Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:55.006Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:55.393Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:55.398Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:55.405Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:55.443Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:55.448Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:55.457Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:55.532Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:55.539Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:55.547Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:55.937Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:55.939Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:55.942Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:55.980Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:55.983Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:55.988Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:56.083Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:56.086Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:56.090Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:56.454Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:56.460Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:56.469Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:56.507Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:56.510Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:56.516Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:56.606Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:56.609Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:56.612Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:56.998Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:57.002Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:57.010Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:57.032Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:57.037Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:57.044Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:57.128Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:57.134Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:57.141Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:57.531Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:57.535Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:57.543Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:57.565Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:57.570Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:57.578Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:57.672Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:57.677Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:57.685Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:58.061Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:58.063Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:58.068Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:58.100Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:58.104Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:58.108Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:58.203Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:58.205Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:58.208Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:58.580Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:58.584Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:58.588Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:58.621Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:58.625Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:58.630Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:58.722Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:58.724Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:58.727Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:59.113Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:59.117Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:59.125Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:59.144Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:59.149Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:59.155Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:59.258Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:59.263Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:59.270Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:59.657Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:52:59.662Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:59.670Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:59.689Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:59.694Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:59.701Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:52:59.801Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:52:59.805Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:52:59.813Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:00.196Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:00.203Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:00.217Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:00.234Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:00.239Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:00.244Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:00.340Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:00.343Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:00.350Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:00.742Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:00.745Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:00.750Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:00.764Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:00.766Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:00.770Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:00.867Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:00.869Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:00.873Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:01.270Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:01.273Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:01.277Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:01.288Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:01.293Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:01.297Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:01.387Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:01.391Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:01.399Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:01.791Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:01.795Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:01.803Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:01.824Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:01.829Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:01.836Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:01.928Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:01.933Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:01.942Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:02.328Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:02.333Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:02.341Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:02.361Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:02.367Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:02.376Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:02.462Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:02.467Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:02.477Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:02.866Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:02.869Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:02.873Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:02.896Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:02.899Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:02.902Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:02.998Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:03.001Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:03.004Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:03.388Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:03.393Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:03.401Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:03.423Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:03.429Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:03.437Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:03.530Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:03.535Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:03.540Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:03.936Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:03.942Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:03.950Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:03.971Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:03.977Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:03.984Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:04.063Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:04.068Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:04.076Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:04.483Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:04.489Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:04.500Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:04.529Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:04.536Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:04.545Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:04.596Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:04.601Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:04.612Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:05.037Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:05.040Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:05.044Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:05.069Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:05.073Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:05.078Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:05.142Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:05.145Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:05.148Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:05.567Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:05.570Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:05.575Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:05.595Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:05.598Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:05.602Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:05.662Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:05.664Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:05.667Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:06.095Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:06.098Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:06.101Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:06.128Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:06.132Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:06.136Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:06.189Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:06.192Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:06.197Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:06.616Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:06.619Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:06.623Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:06.663Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:06.665Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:06.669Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:06.726Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:06.730Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:06.735Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:07.160Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:07.166Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:07.177Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:07.200Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:07.207Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:07.215Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:07.264Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:07.268Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:07.277Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:07.712Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:07.716Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:07.722Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:07.738Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:07.743Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:07.747Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:07.795Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:07.799Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:07.803Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:08.251Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:08.255Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:08.261Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:08.280Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:08.285Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:08.295Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:08.327Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:08.331Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:08.336Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:08.785Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:08.790Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:08.798Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:08.818Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:08.824Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:08.831Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:08.860Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:08.868Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:08.883Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:09.328Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:09.333Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:09.343Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:09.362Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:09.367Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:09.375Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:09.418Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:09.430Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:09.443Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:09.860Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:09.862Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:09.866Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:09.902Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:09.904Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:09.908Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:09.976Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:09.979Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:09.982Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:10.391Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:10.393Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:10.398Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:10.423Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:10.427Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:10.431Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:10.493Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:10.496Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:10.502Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:10.915Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:10.920Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:10.929Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:10.948Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:10.953Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:10.964Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:11.024Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:11.030Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:11.039Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:11.448Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:11.451Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:11.456Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:11.575Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:11.579Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:11.584Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:11.594Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:11.596Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:11.601Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:12.072Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:12.074Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:12.078Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:12.094Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:12.097Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:12.100Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:12.131Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:12.134Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:12.138Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:12.605Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:12.607Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:12.610Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:12.622Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:12.626Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:12.630Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:12.652Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:12.655Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:12.659Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:13.133Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:13.136Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:13.140Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:13.151Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:13.153Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:13.159Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:13.168Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:13.171Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:13.176Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:13.659Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:13.661Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:13.665Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:13.676Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:13.679Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:13.682Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:13.693Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:13.695Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:13.699Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:14.182Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:14.185Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:14.189Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:14.201Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:14.203Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:14.208Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:14.222Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:14.226Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:14.230Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:14.716Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:14.720Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:14.725Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:14.743Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:14.747Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:14.753Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:14.767Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:14.770Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:14.778Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:15.250Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:15.254Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:15.259Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:15.274Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:15.277Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:15.280Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:15.290Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:15.294Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:15.300Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:15.781Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:15.783Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:15.786Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:15.795Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:15.797Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:15.801Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:15.811Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:15.814Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:15.818Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:16.299Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:16.303Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:16.335Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:16.363Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:16.366Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:16.372Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:16.394Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:16.398Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:16.403Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:16.861Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:16.863Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:16.867Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:16.899Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:16.902Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:16.907Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:16.918Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:16.920Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:16.926Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:17.381Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:17.384Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:17.389Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:17.422Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:17.426Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:17.430Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:17.445Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:17.447Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:17.452Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:17.918Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:17.924Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:17.931Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:17.952Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:17.958Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:17.967Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:17.988Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:17.995Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:18.011Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:18.464Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:18.469Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:18.479Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:18.498Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:18.502Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:18.510Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:18.538Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:18.543Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:18.551Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:19.000Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:19.005Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:19.010Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:19.041Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:19.044Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:19.048Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:19.069Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:19.072Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:19.076Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:19.524Z] [ERROR] [Shard 2 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg
+[2025-10-20T09:53:19.527Z] [ERROR] [ShardError] Shard 2 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:19.530Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:19.568Z] [ERROR] [Shard 1 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:19.572Z] [ERROR] [ShardError] Shard 1 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:19.576Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:19.586Z] [ERROR] [Shard 0 encountered an error:] Error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg
+[2025-10-20T09:53:19.590Z] [ERROR] [ShardError] Shard 0 encountered an error
+Stack trace: [object Object]
+[2025-10-20T09:53:19.596Z] [ERROR] [ShardError] Multiple shard errors detected in short timeframe
+Stack trace: [object Object]
+[2025-10-20T09:53:29.737Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:53:32.806Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:53:35.801Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:53:38.592Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:54:55.243Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:54:58.090Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:55:01.239Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:55:04.195Z] [ERROR] [ByteCord] Failed to initialize bot
+Stack trace: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T10:03:18.557Z] [ERROR] [Backup] Backup channel 1386987116889899024 not found
+[2025-10-20T10:04:31.691Z] [ERROR] [MessageProcessor] Error logging command usage
+Stack trace: DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1163:23)
+    at async SequentialHandler.queueRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:994:14)
+    at async _REST.request (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ChannelManager.fetch (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\discord.js\src\managers\ChannelManager.js:130:18)
+    at async MessageProcessor._logCommandUsage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:439:30)
+    at async MessageProcessor._executeCommand (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:376:9)
+    at async MessageProcessor.processMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:88:14)
+    at async CommandHandler.handleMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/CommandHandler.js:44:12)
+[2025-10-20T10:06:56.124Z] [ERROR] [MessageProcessor] Error logging command usage
+Stack trace: DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1163:23)
+    at async SequentialHandler.queueRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:994:14)
+    at async _REST.request (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ChannelManager.fetch (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\discord.js\src\managers\ChannelManager.js:130:18)
+    at async MessageProcessor._logCommandUsage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:439:30)
+    at async MessageProcessor._executeCommand (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:376:9)
+    at async MessageProcessor.processMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:88:14)
+    at async CommandHandler.handleMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/CommandHandler.js:44:12)
+[2025-10-20T10:07:19.583Z] [ERROR] [MessageProcessor] Error logging command usage
+Stack trace: DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1163:23)
+    at async SequentialHandler.queueRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:994:14)
+    at async _REST.request (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ChannelManager.fetch (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\discord.js\src\managers\ChannelManager.js:130:18)
+    at async MessageProcessor._logCommandUsage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:439:30)
+    at async MessageProcessor._executeCommand (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:376:9)
+    at async MessageProcessor.processMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:88:14)
+    at async CommandHandler.handleMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/CommandHandler.js:44:12)
+[2025-10-20T10:09:42.728Z] [ERROR] [MessageProcessor] Error logging command usage
+Stack trace: DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1163:23)
+    at async SequentialHandler.queueRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:994:14)
+    at async _REST.request (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ChannelManager.fetch (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\discord.js\src\managers\ChannelManager.js:130:18)
+    at async MessageProcessor._logCommandUsage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:439:30)
+    at async MessageProcessor._executeCommand (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:376:9)
+    at async MessageProcessor.processMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:88:14)
+    at async CommandHandler.handleMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/CommandHandler.js:44:12)
+[2025-10-20T13:09:44.861Z] [ERROR] [Backup] Backup channel 1386987116889899024 not found
+[2025-10-20T13:10:22.268Z] [ERROR] [MessageProcessor] Error logging command usage
+Stack trace: DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1163:23)
+    at async SequentialHandler.queueRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:994:14)
+    at async _REST.request (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ChannelManager.fetch (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\discord.js\src\managers\ChannelManager.js:130:18)
+    at async MessageProcessor._logCommandUsage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:439:30)
+    at async MessageProcessor._executeCommand (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:376:9)
+    at async MessageProcessor.processMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:88:14)
+    at async CommandHandler.handleMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/CommandHandler.js:44:12)
+[2025-10-20T13:10:58.399Z] [ERROR] [MessageProcessor] Error logging command usage
+Stack trace: DiscordAPIError[50001]: Missing Access
+    at handleErrors (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1163:23)
+    at async SequentialHandler.queueRequest (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:994:14)
+    at async _REST.request (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ChannelManager.fetch (C:\Users\Pranav-K\Downloads\Avon-MusicBot-main\Avon-MusicBot-main\node_modules\discord.js\src\managers\ChannelManager.js:130:18)
+    at async MessageProcessor._logCommandUsage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:439:30)
+    at async MessageProcessor._executeCommand (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:376:9)
+    at async MessageProcessor.processMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/MessageProcessor.js:88:14)
+    at async CommandHandler.handleMessage (file:///C:/Users/Pranav-K/Downloads/Avon-MusicBot-main/Avon-MusicBot-main/src/structures/CommandHandler.js:44:12)

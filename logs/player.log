@@ -1,0 +1,85 @@
+========== Player log started at 2025-10-20T09:47:58.529Z ==========
+[2025-10-20T09:47:58.640Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:47:59.037Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:47:59.038Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:47:59.040Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+[2025-10-20T09:48:00.130Z] [SUCCESS] [MusicManager] Event handlers registered successfully
+[2025-10-20T09:48:21.549Z] [SUCCESS] [MusicManager] Lavalink node "Lavalink Node 1" connected and ready
+[2025-10-20T09:52:04.247Z] [WARN] [MusicManager] Lavalink node "Lavalink Node 1" closed: 1006 – No reason
+[2025-10-20T09:52:09.260Z] [ERROR] [MusicManager] Lavalink node "Lavalink Node 1" error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:09.268Z] [WARN] [MusicManager] Lavalink node "Lavalink Node 1" closed: 1006 – No reason
+[2025-10-20T09:52:14.282Z] [ERROR] [MusicManager] Lavalink node "Lavalink Node 1" error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:14.287Z] [WARN] [MusicManager] Lavalink node "Lavalink Node 1" closed: 1006 – No reason
+[2025-10-20T09:52:19.296Z] [ERROR] [MusicManager] Lavalink node "Lavalink Node 1" error:
+Stack trace: Error: getaddrinfo ENOTFOUND lavalinkv4.serenetia.com
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)
+[2025-10-20T09:52:19.306Z] [WARN] [MusicManager] Lavalink node "Lavalink Node 1" closed: 1006 – No reason
+[2025-10-20T09:52:19.310Z] [WARN] [MusicManager] Lavalink node "Lavalink Node 1" disconnected, players affected: 0
+========== Player log started at 2025-10-20T09:53:28.782Z ==========
+[2025-10-20T09:53:28.982Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:53:29.619Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:53:29.622Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:53:29.624Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:53:31.919Z ==========
+[2025-10-20T09:53:32.103Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:53:32.685Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:53:32.687Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:53:32.690Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:53:34.946Z ==========
+[2025-10-20T09:53:35.051Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:53:35.628Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:53:35.630Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:53:35.634Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:53:37.713Z ==========
+[2025-10-20T09:53:37.827Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:53:38.470Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:53:38.473Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:53:38.476Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:54:54.340Z ==========
+[2025-10-20T09:54:54.520Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:54:55.124Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:54:55.128Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:54:55.132Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:54:57.172Z ==========
+[2025-10-20T09:54:57.318Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:54:57.911Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:54:57.914Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:54:57.917Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:55:00.037Z ==========
+[2025-10-20T09:55:00.223Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:55:01.042Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:55:01.045Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:55:01.048Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:55:03.395Z ==========
+[2025-10-20T09:55:03.562Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T09:55:04.063Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T09:55:04.067Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T09:55:04.072Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+========== Player log started at 2025-10-20T09:57:00.897Z ==========
+[2025-10-20T09:57:01.029Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+========== Player log started at 2025-10-20T10:03:01.436Z ==========
+[2025-10-20T10:03:01.530Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T10:03:01.992Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T10:03:01.994Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T10:03:01.997Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+[2025-10-20T10:03:03.326Z] [SUCCESS] [MusicManager] Event handlers registered successfully
+[2025-10-20T10:03:20.201Z] [SUCCESS] [MusicManager] Lavalink node "Lavalink Node 1" connected and ready
+[2025-10-20T10:07:14.905Z] [INFO] [MusicManager] Creating player for guild 1384150336578785333 on node "Lavalink Node 1" (shard: 1)
+[2025-10-20T10:07:14.913Z] [SUCCESS] [MusicManager] Player created successfully for guild 1384150336578785333 on node "Lavalink Node 1" (shard: 1)
+[2025-10-20T10:07:16.883Z] [SUCCESS] [PlayerCreated] Player fully initialized for guild 𐌁𐌉𐌋𐌀𐌋 𐌐𐌓𐌉ᕓ𐌀𐌕𐌄 𐌔𐌄ᕓ𐌄𐌓
+[2025-10-20T10:07:16.956Z] [INFO] [QueueManager] Queue type: Array
+========== Player log started at 2025-10-20T13:09:28.838Z ==========
+[2025-10-20T13:09:28.956Z] [INFO] [PlayerDatabase] Player and track history tables initialized
+[2025-10-20T13:09:29.414Z] [INFO] [MusicManager] Initializing with 1 Lavalink nodes for scale
+[2025-10-20T13:09:29.415Z] [SUCCESS] [MusicManager] Spotify plugin initialized successfully
+[2025-10-20T13:09:29.417Z] [SUCCESS] [MusicManager] Kazagumo and Shoukaku initialized successfully with load balancing
+[2025-10-20T13:09:30.596Z] [SUCCESS] [MusicManager] Event handlers registered successfully
+[2025-10-20T13:09:49.813Z] [SUCCESS] [MusicManager] Lavalink node "Lavalink Node 1" connected and ready
+[2025-10-20T13:10:53.896Z] [INFO] [MusicManager] Creating player for guild 1410531424435441747 on node "Lavalink Node 1" (shard: 1)
+[2025-10-20T13:10:53.899Z] [SUCCESS] [MusicManager] Player created successfully for guild 1410531424435441747 on node "Lavalink Node 1" (shard: 1)
+[2025-10-20T13:10:55.893Z] [SUCCESS] [PlayerCreated] Player fully initialized for guild G 1 R 1' S Server
+[2025-10-20T13:10:55.949Z] [INFO] [QueueManager] Queue type: Array
