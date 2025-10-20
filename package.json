@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A highly modular Discord music bot using Shoukaku and Kazagumo",
   "type": "module",
-  "main": "src/shard.js",
+  "main": "shard.js",
   "scripts": {
-    "start": "node src/shard.js",
-    "dev": "node --watch src/shard.js"
+    "start": "node/shard.js",
+    "dev": "node --watch/shard.js"
   },
   "keywords": [
     "discord",
