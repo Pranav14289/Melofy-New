@@ -5,8 +5,8 @@
   "type": "module",
   "main": "shard.js",
   "scripts": {
-    "start": "node/shard.js",
-    "dev": "node --watch/shard.js"
+    "start": "node shard.js",
+    "dev": "node --watch shard.js"
   },
   "keywords": [
     "discord",
