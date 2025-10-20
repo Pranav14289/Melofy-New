@@ -1,4 +1,4 @@
-# Avon Discord Bot
+# Melofy Discord Bot
 
 A highly modular Discord music bot using Shoukaku and Kazagumo with Lavalink integration.
 
@@ -61,3 +61,4 @@ Made with 🧡 by Team Avon
 ## License
 
 [MIT License](LICENSE)
+
