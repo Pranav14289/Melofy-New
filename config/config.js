@@ -5,7 +5,7 @@
  */
 export const config = {
   // Discord Bot Configuration
-  token: 'MTM4NDEzNjQ0OTY3ODUxMjM1OQ.GRFsWh.ibHkh0Ka5oEPPMVNLww1F7Zf_G724MzpETETw0', // Replace with your bot token
+  token: '', // Replace with your bot token
   prefix: '>', // Default command prefix
   ownerIds: ['910223168088731689'], // Replace with your Discord user ID
 
